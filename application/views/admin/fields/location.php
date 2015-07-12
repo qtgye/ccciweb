@@ -1,0 +1,1 @@
+<input type="text" name="location" id="location" class="input-long <?php echo in_array('location', $data->error->fields)?'error':'' ?>" value="<?php echo isset($data->values->location)?$data->values->location:'' ?>">

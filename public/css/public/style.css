@@ -1,0 +1,503 @@
+/* 
+	THIS CONTAINS THE SITE-WIDE STYLES FOR ALL SCREEN SIZES
+
+	TABLE OF CONTENTS:
+	- GENERIC STYLES
+	- BUTTON STYLES
+	- INNER LAYOUT STYLES
+
+	- LIBRARY OVERRIDES
+
+ */
+
+
+ /* FONT FACES */
+
+
+
+
+ /* GENERIC STYLES */
+ * {
+ 	padding: 0;
+ 	margin: 0;
+ 	background-repeat: no-repeat !important;
+ }
+ body {
+ 	#fff;
+ }
+ a:link, a:active, a:visited {
+ 	text-decoration: none; 	
+ }
+ a:not(:visited) {
+ 	color: #03606e;
+ }
+ a:visited {
+ 	color: #089001;
+ }
+ li {
+ 	list-style: none;
+ } 
+
+
+
+/* BUTTON STYLES */
+.btn, a.btn:link, a.btn:visited, a.btn:active {
+	display: inline-block;
+	cursor: pointer;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+	.btn.btn-presssed {
+		-webkit-transform: scale(0.9);
+		-ms-transform: scale(0.9);
+		-o-transform: scale(0.9);
+		transform: scale(0.9);
+	}
+
+.btn-default {
+	padding: 10px 30px;
+	display: inline-table;
+	margin: auto;
+	border: 1px solid #03606e;
+	color: #03606e;
+}
+
+
+
+ /* INNER LAYOUT STYLES */
+ .wrapper {
+ 	background-image: url('../../img/assets/bg/wrapper_bg.jpg') ;
+ 	background-position: top center;
+ 	background-size: 100% auto; 	
+ 	background-color: rgba(255,255,255,0.5);
+ 	position: relative; 	
+ } 
+ 	header {
+	 	background: none;	 	
+	 }
+	 	.header-content {
+	 		
+	 	}
+	 		.brand, .nav-group {
+
+	 		}
+	 		.brand { 			
+	 		}
+	 			.brand a {
+	 				
+	 			}
+	 		.nav-group {
+	 			
+	 		}
+	 			.nav-main {	 				
+	 				transition: left 0.2s ease;
+	 				box-shadow: 0 0 5px rgba(0,0,0,0.5)	;
+	 			}
+	 			.nav-main * {
+ 									
+ 				}
+ 				.nav-main *:hover {
+ 					
+ 				}
+ 					.nav-toggle {
+ 						cursor: pointer;
+ 					}
+	 				.nav-main-menu { 				
+		 				
+		 			}
+		 				.nav-main-menu *:hover { 				
+			 				
+			 			}	
+
+	.main-content {
+		
+	}
+	.main-content a {
+		
+	}
+	.main-content.main-content-home {
+		
+	}
+		.banner-wrapper {
+			
+		}
+			.banner {
+			
+			}
+		.section-wrapper {
+		
+		}	
+			.section-body {
+				
+			}
+				.section-content-header {
+					color: #03606e;
+				}
+				.section-content-header h1 {
+						
+					}
+					.about-intro h1 {
+						
+					}
+				.section-content {
+					
+				}
+				.about-intro .section-content {
+					
+				}
+					.mission-intro, .branches-intro {
+					
+					}
+						.mission-intro h3, .branches-intro h3 {
+							
+						}
+							.mission-intro-content, .branches-intro-content {
+							
+							}
+								.mission-intro-btn {
+									
+								}
+						.branches-intro {
+
+						}
+							.branches-intro-content {
+								
+							}
+								.branch-item {
+									text-align: center;
+								}
+									h3.branch-title {
+										font-family: 'Cambria',serif;
+										font-style: italic;
+										color: #008109;
+										font-weight: lighter;
+									}									
+									.branch-logo-container {
+
+									}
+										.branch-logo-link {
+										
+										}
+											.branch-logo-link img {
+												
+											}
+						.section-wrapper.locations-intro {
+							background: #7b7b7b;
+							color: #fff;
+						}
+							.location-list {
+								
+							}
+								.location-item {
+									border: 1px solid #fff;	
+								}
+									.location-item-link {
+										text-align: center;		
+										color: #fff;	
+										-webkit-transition: all 0.2s ease;
+										-o-transition: all 0.2s ease;
+										transition: all 0.2s ease;
+									}
+									.location-item-link:hover {
+																		
+									}
+						.updates-intro {
+							color: #484848;
+						} 
+							.updates-intro h1 {
+								color: #646e7c;
+							}
+								.updates-body {
+									
+								}
+									.latest-event, .latest-posts {
+										
+									}								
+										.latest-event .latest-post-content, .latest-event .event-photo {
+										
+										}
+									.latest-posts {									
+												
+									}
+										.latest-post-item {
+																															
+										}
+										.latest-post-item-header {
+											background: #4f4f4f;
+											font-family: 'Cambria',serif;
+											font-style: italic;
+											color: #f3f3f3;			
+										}									
+										.event-photo img {
+											
+										}
+										.latest-post-content {
+																			
+										}
+											.latest-post-title {
+												font-family: "Franchise",'Calibri',sans-serif;					
+											}
+											.latest-post-meta {
+												
+											}
+											.latest-post-text {
+																					
+											}
+											.latest-post-link-btn {
+												
+											}					
+					.people-item {	
+
+					}
+						.people-image {
+							
+						}
+							.people-image img {
+								display: block;
+								width: auto;
+							}
+						.people-info {
+							
+						}
+							h3.people-name{
+								font-family: 'Cambria',serif;
+								font-style: italic;
+								color: #008109;								
+							}
+							.people-description {
+								font-family: 'Cambria',serif;
+								font-style: italic;
+								color: #43454e;
+								font-weight: lighter;			
+							}
+						.people-social-list	{
+
+						}
+				.people-single-info {
+					text-align: center;
+				}	
+					.people-single-meta {
+						font-size: 0.9em;
+						color: gray;
+						padding: 10px 0;
+					}	
+					.people-single-bio {
+						
+					}
+					.people-single-social-list {
+						
+					}
+						.people-single-social-header {
+							background: gray;							
+							color: white;	
+							font-style: italic;													
+						}
+						.people-single-social-item {
+							
+						}
+							.people-single-social-item * {
+								color: #a1a2a6;
+							}
+			.posts-list {
+
+			}	
+				.post-item {
+					
+				}
+					.post-image {
+
+					}
+						.post-image img {
+							
+						}
+					.post-header {
+						
+					}
+						.post-title {
+							font-family: "Franchise",'Calibri',sans-serif;
+						}
+						.post-meta {
+							font-style: italic;
+							font-size: 0.8em;
+							color: gray;
+						}
+					.post-content {
+						
+					}
+						.post-content .post-link-btn {
+							padding: 10px;
+							border: 1px solid #089001;
+						}
+			.post-single-wrapper {
+				
+			}
+				.post-single-wrapper > * {					
+					
+				}
+				.post-single-title {								
+					
+				}
+					.post-single-title h1 {
+						text-align: left;
+						color: #03606e;
+					}
+				.post-single-meta {
+					
+				}
+					.post-single-meta p {
+						
+					}
+				.post-single-image {
+					
+				}
+					.post-single-image img {
+						
+					}				
+				.post-single-content {
+					
+				}
+					.post-single-content p {
+						
+					}
+				.post-single-next {
+					font-style: italic;
+					font-weight: bold;
+				}
+				.post-single-social {
+					display: none !important; /* while social buttons API are not yet done */
+				}
+					.post-social-info {
+						
+					}
+						.share-btn {
+							border: 1px solid #089001;	
+							color: #089001;										
+						}
+						.social-numbers {
+							
+						}
+							.social-number-item {
+								color: gray !important;								
+							}
+					.comments {
+
+					}
+			.albums-list {
+				
+			}
+				.album-item {
+					
+				}
+					.thumbnail-container {
+						overflow: hidden;
+						-webkit-box-shadow: 0 0 1px 1px  rgba(0,0,0,0.1), 2px 2px 5px rgba(0,0,0,0.5);
+						box-shadow: 0 0 1px 1px  rgba(0,0,0,0.1), 2px 2px 5px rgba(0,0,0,0.5);
+					}
+						.thumbnail-container * {
+							-webkit-transition: all 0.3s ease;
+							-o-transition: all 0.3s ease;
+							transition: all 0.3s ease;
+						}
+						.thumbnail-title {							
+							background: rgba(0,0,0,0.5);							
+						}
+							.thumbnail-title h4 {								
+								color: #fff;															
+								text-align: center;
+								font-weight: 400;
+								overflow: hidden;
+								white-space: nowrap;
+								-ms-text-overflow: ellipsis;
+								text-overflow: ellipsis;
+							}
+						.thumbnail-overlay  {							
+							background-size: 30%;
+							background-position: center 50%;						
+							background-color: rgba(0,129,9,0.6);
+							opacity: 0;
+						}
+						.thumbnail-overlay.thumbnail-overlay-link  {							
+							background-image: url('../../img/assets/icon/open_link.png');							
+						}
+						.thumbnail-overlay.thumbnail-overlay-lightbox  {							
+							background-image: url('../../img/assets/icon/lightbox.png');							
+						}		
+						.thumbnail-image {							
+						}
+			article {
+				
+			}
+				.article-header {
+					color: #008109;
+				}
+				.article-body {
+					
+				}
+	footer {
+		background: #004605;
+		font-family: 'Open Sans','Calibri',sans-serif;	
+		color: #008109;
+	}
+		.footer-quicklinks {
+
+		}
+			.quicklinks-list {
+				
+			}
+				.quicklink-item {
+					
+				}
+					.quicklink-item li {					
+										
+					}
+						.quicklink-item a:link, .quicklink-item a:visited, .quicklink-item a:active {
+							color: #008109;
+						}
+						.quicklink-item a:hover {
+							color: white;
+						}
+		.footer-social {
+			
+		}
+			.footer-social-list {
+				
+			}
+				.footer-social li {
+					
+				}
+		.footer-brand {
+
+		}
+			.footer-brand-link {
+				
+			}
+			.footer-logo-image {
+				
+			}
+		.footer-copyright {			
+			color: #008109;
+			text-align: center;
+		}
+			.footer-copyright a {
+				color: #008109;
+			}
+
+
+
+/*
+	HELPER CLASSES
+*/
+.center {
+	margin: auto;
+	text-align: center;
+}
+
+
+/* 
+	LIBRARY OVERRIDES
+ */
+
+.fa {
+	margin-right: 0.5em;
+}

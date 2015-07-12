@@ -1,0 +1,1 @@
+<input type="password" name="<?php echo $field_name ?>" id="<?php echo $field_name ?>" class="<?php echo in_array($field_name, $data->errors->fields)?'error':'' ?>" value="<?php echo isset($_POST['password'])?$_POST['password']:'' ?>">

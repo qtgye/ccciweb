@@ -1,0 +1,1353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"li",
+				"library_name"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"chart",
+				"chart02"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ave",
+				"aveGrade"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"gene",
+				"generateGrades"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"cons",
+				"construct_query_options"
+			],
+			[
+				"date",
+				"date_create_from_format"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"load",
+				"load_model"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"m",
+				"ministry"
+			],
+			[
+				"mini",
+				"ministry_abbr"
+			],
+			[
+				"alb",
+				"album_id"
+			],
+			[
+				"fil",
+				"finalGrades"
+			],
+			[
+				"gra",
+				"grading_periods"
+			],
+			[
+				"sub",
+				"subjectsForAve"
+			],
+			[
+				"map",
+				"mapehSubjects"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"templ",
+				"template_arrays"
+			],
+			[
+				"ch",
+				"check_group"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"self",
+				"self_closing_tags"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"verse",
+				"verse_end"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"chapter",
+				"chapter_nr"
+			],
+			[
+				"book",
+				"book_name"
+			],
+			[
+				"sa",
+				"save_to_db"
+			],
+			[
+				"boo",
+				"book_title"
+			],
+			[
+				"fetch",
+				"fetch_json"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"chap",
+				"chapters_count"
+			],
+			[
+				"lates",
+				"latest_published"
+			],
+			[
+				"status_",
+				"status_change"
+			],
+			[
+				"field",
+				"field_names"
+			],
+			[
+				"query",
+				"query_params"
+			],
+			[
+				"fie",
+				"field_names"
+			],
+			[
+				"q",
+				"query_params"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"regis",
+				"register"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"send",
+				"send_mail"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"Inpu",
+				"inputRem"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Ima",
+				"ImageSelect"
+			],
+			[
+				"elem",
+				"elemSelector"
+			],
+			[
+				"PHOTOS",
+				"PHOTOS_DIR"
+			],
+			[
+				"mDa",
+				"modalSrc"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fetc",
+				"fetch_object"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"edit",
+				"edit_profile"
+			],
+			[
+				"user",
+				"user_permission"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"get_item",
+				"get_item_meta"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"update",
+				"update_db"
+			],
+			[
+				"insert",
+				"insert_db"
+			],
+			[
+				"get_field",
+				"get_field_names"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"border-radius",
+				"border-radius"
+			],
+			[
+				"rgb",
+				"rgba"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/admin/view/view_list.php",
+			"settings":
+			{
+				"buffer_size": 3867,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/admin/view/header.php",
+			"settings":
+			{
+				"buffer_size": 3626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/admin/view/view_list_albums.php",
+			"settings":
+			{
+				"buffer_size": 2856,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/new/header.php",
+			"settings":
+			{
+				"buffer_size": 1540,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/admin/main.js",
+			"settings":
+			{
+				"buffer_size": 3296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/admin/_templates/header.php",
+			"settings":
+			{
+				"buffer_size": 2115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/updates.php",
+			"settings":
+			{
+				"buffer_size": 5228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/css/public/style.css",
+			"settings":
+			{
+				"buffer_size": 9088,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/model/adminModel.php",
+			"settings":
+			{
+				"buffer_size": 112992,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/admin/modules/ajaxPublish.js",
+			"settings":
+			{
+				"buffer_size": 9943,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php \n\nclass Admin extends Controller\n{\n	public function index()\n	{	\n		$this->loadModel('adminModel');		\n\n		if ( $this->model->user_logged_in() )\n		{			\n			$this->loadDefaultTemplates(['header'],(object)['header_title'=>'Admin Panel | Christian Challenge Church, Inc.']);		\n			$this->loadDefaultTemplates(['top','sidebar']);\n			$this->loadView('admin/home/index',(object)$this->model->get_sidebar());\n			$this->loadDefaultTemplates(['footer']);\n		}\n		else\n		{\n			/**	\n			 * checks if form is submitted already\n			 * @var result from check_login_submit(). This can be login errors or success.\n			 */			\n			$login = $this->model->check_login_submit();\n\n			//loads the login screeen\n			$this->loadDefaultTemplates(['header'],(object)['header_title'=>'Admin Login']);	\n			$this->loadView('admin/home/login', $login);\n			$this->loadModals(['modal-forgot-password']);\n		}		\n	}\n\n	//loads the modals\n    //@param array list of modals\n    public function loadModals($list=[],$page=null,$method=null)\n    {        \n        if (count($list)>0)        \n        {\n            foreach ($list as $modal) {            \n                if ( file_exists(APP . 'views/admin/_modals/' . $modal . '.php') )\n                {\n                    require APP . 'views/admin/_modals/' . $modal . '.php';\n                }\n                else\n                {\n                    require APP . 'views/public/error/index.php';\n                }\n            }\n        }\n    }\n\n	public function register()\n	{\n		$this->loadModel('adminModel');		\n		/**	\n		 * checks if form is submitted already\n		 * @var result from check_login_submit(). This can be login errors or success.\n		 */	\n		$register = $this->model->check_register_submit();\n\n\n		$data = (object)[\n			'errors'=>$register->errors,\n			'title'=>'',\n			'values'=>$this->model->get_field_values('users'),			\n			'method'=>null\n		];\n\n		//loads the register screeen		\n		$this->loadDefaultTemplates(['header'],(object)['header_title'=>'User Registration']);\n		$this->loadView('admin/home/register_header', $register);\n		$this->model->loadFields('users', $data, 'new');\n		$this->loadView('admin/home/register_footer', $register);\n		$this->loadView('admin/_templates/footer_blank');\n	}\n\n	public function register_success()\n	{\n		$this->loadModel('adminModel');\n\n		/**	\n		 * displays success page	 \n		 */\n		$register = $this->model->check_register_submit();\n\n		//loads the register screeen\n		$data = (object)[\n			\"header_title\" => 'Registration Success'\n		];\n		$this->loadView('admin/_templates/header',$data);\n		$this->loadView('admin/home/register_success');\n		$this->loadView('admin/_templates/footer_blank');\n	}\n\n	public function logout()\n	{\n		session_destroy();\n		header('location: ' . URL . 'admin');\n	}\n\n	public function loadDefaultTemplates($views = [],$arg = null)\n	{		\n\n		$model = $this->model;	\n\n		foreach ($views as $view) {	\n\n			switch ($view)\n			{\n				case 'sidebar':\n					$arg = (object)[\n					'user'=> $this->session->user,\n					'sidebar'=> $model->get_sidebar()\n					];\n					break;\n				case 'header':				\n					$arg = $arg ? $arg : 'Admin Panel | Christian Challenge Church';\n					break;\n				\n				default:\n					# code...\n					break;\n			}		\n			\n\n			$this->loadView('admin/_templates/'.$view, $arg);\n\n\n		}\n	}\n\n	//add new entry page\n	public function add_new($page)\n	{		\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		if ($page=='users') {\n			header('location: '.URL.'error');\n		}\n\n		$check_add_submit = $this->model->check_add_submit($page);\n		\n		// send facebook post if there is no error\n        if ( empty( $check_add_submit->errors->message ) )\n        {\n\n            $this->load_service('FacebookSvc');\n            if ( $this->FacebookLib->is_connected() ) {\n\n            	$args = (object)[\n            		'link' => '',\n            		'message' => 'Sample Post using the PHP SDK4s'\n            	];\n\n            	$this->FacebookLib->post($args);\n\n            	print_r( $check_add_submit );\n            }\n        }\n\n		$arg = (object)[\n				'header_title'=>'New Entry for '.ucwords(str_replace('_',' ',$page)) . \" | Admin Panel\",\n				'page'=>$page,				\n				'values'=>$this->model->get_field_values($page),\n				'info'=>$check_add_submit->info,\n				'errors'=>$check_add_submit->errors,\n				'status'=>$check_add_submit->status,\n				'method'=>'new',\n				'title'=> ucwords(str_replace('_',' ',$page))\n			];\n\n\n		\n		$this->loadDefaultTemplates(['header','top','sidebar'],$arg);\n		$this->loadView('admin/new/header',$arg);\n		$this->model->loadFields($page, $arg,'new');		\n		$this->loadView('admin/new/footer',$arg);\n		$this->loadModals(['image-select','default-modal','modal-publish'],$page);\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n	// ajax page for uploading each image\n	public function upload($id)\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();		\n\n		$album = $this->model->get_album_info($id);\n		$data = (object)[			\n			'album'=>$album,\n			'header_title'=>'Upload Photos' . \" | Admin Panel\"\n		];\n		$this->loadDefaultTemplates(['header','top','sidebar'],$data);\n		$this->loadView('admin/upload/content',$data);\n\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n	// ajax page for updating the image caption \n	public function image_update_info($img_id)\n	{\n		$this->loadModel('adminModel');\n        $this->model->check_login();\n\n        $this->loadView('admin/data/image_update_info',(object)['db'=>$this->model->db,'img_id'=>$img_id]);\n	}\n\n	//after successfuly adding entry:\n    public function add_success($page)\n    {\n        $this->loadModel('adminModel');\n        $this->model->check_login();\n\n        $success_info = $this->model->parse_success_info($page);\n\n        $this->loadDefaultTemplates(['header','top','sidebar'],(object)['header_title'=>'Successfuly Added Entry']);\n        $this->loadView('admin/new/add_success', $success_info);\n        $this->loadDefaultTemplates(['footer']);\n    }\n\n\n	public function view($page=null,$status='summary',$current_page=1)\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$this->model->validate_url($page,$status);\n		\n		$info = $this->model->check_view_submit();\n\n		$info = !empty($info->content) ? $info : $this->model->get_info_post();\n\n		// albums page has only one status ('published')\n		if (preg_match('/(albums|site_settings)/', $page))\n		{\n			$status = 'published';\n		}		\n\n		$arg = (object)[\n			'header_title'=>ucwords(str_replace('_',' ',$page)).' | Admin Panel',\n			'title'=>$this->model->get_view_title($page,$status),\n			'page'=>$page,\n			'status'=>$status,\n			'list'=>$this->model->get_data_list($page,$status,(object)['current_page'=>$current_page,'limit'=>10]),\n			'info'=>$info			\n		];\n				\n		$this->loadDefaultTemplates(['header','top','sidebar'],$arg);\n\n		if( $status == 'summary' )\n		{\n			$this->loadView('admin/view/header_summary',$arg);			\n			$this->loadView('admin/view/view_summary',$arg);\n\n		}\n		else\n		{\n			$this->loadView('admin/view/header',$arg);\n			$this->loadView('admin/view/view_list',$arg);\n			$this->loadModals(['image-select'],$page);\n		}\n\n		$this->loadModals(['default-modal','modal-publish'],$page);\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n\n	public function gallery($id)\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n		$album = $this->model->get_album_info($id);\n\n		$info = $this->model->check_gallery_submit();		\n\n		$arg = (object)[\n				'title'=>$album->title,\n				'id'=>$album->id,\n				'photos'=>$this->model->get_album_photos($id),				\n				'info'=>$info,\n				'albums_list'=>$this->model->get_album_list()\n			];\n		\n		$this->loadDefaultTemplates(['header','top','sidebar'],(object)['header_title'=>$album->title.' | Gallery' . ' | Admin Panel']);\n		$this->loadView('admin/view/view_gallery',$arg);\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n	public function edit($page,$id)\n	{		\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$values = $this->model->get_field_values($page,$id);				\n		$check_edit_submit = $this->model->check_edit_submit($page,$id);\n		$meta = (array)$this->model->get_item_meta($page,$id);\n\n		$arg = (object)[\n				'header_title'=>'Edit Entry | '.ucfirst(str_replace('_', ' ', $page)) . ' | Admin Panel',\n				'title'=>'Edit Entry for '.ucwords(str_replace('_',' ',$page)),\n				'id'=>$id,\n				'page'=>$page,				\n				'values'=>$values,\n				'meta'=>(object)$meta,\n				'info'=>$check_edit_submit->info,\n				'errors'=>$check_edit_submit->errors,\n				'status'=>$check_edit_submit->status?$check_edit_submit->status:$meta['Current Status'],\n				'method'=>'edit'\n			];		\n		\n		$this->loadDefaultTemplates(['header','top','sidebar'],$arg);\n		$this->loadView('admin/new/header',$arg);\n		$this->model->loadFields($page, $arg,'edit');\n		$this->loadView('admin/new/footer',$arg);\n		$this->loadModals(['image-select','default-modal','modal-publish'],$page);\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n	public function profile($task = 'summary')\n	{		\n		$this->loadModel('adminModel');\n		$this->model->check_login();		\n\n		$values = null;\n		$user = $task == 'change_password' ? null : $this->model->get_user_info();\n\n		$data = (object)[	\n			'page'=>'profile',\n			'values'=>null,\n			'errors'=>null,\n			'user'=>$user,\n			'method'=>'profile',\n			'title'=>''\n		];	\n		\n		\n		if (isset($this->post->publish) || isset($this->post->save_draft) || isset($this->post->save))\n		{\n			$data->values = $this->post;\n		}\n		else\n		{\n			$data->values = $this->model->get_item_data('users',$this->session->user->id);\n		}\n\n		// Select header title depending on the task\n		switch ($task) {\n			case 'summary':\n				$header_title = 'My Profile | Admin Panel';\n				$data->title = 'Edit Your Profile';\n				break;\n			case 'change_password':\n				$header_title = 'Change Password | Admin Panel';\n				$data->title = 'Change Password';\n				break;\n			case 'edit_profile':				\n				$header_title = 'Edit Profile | Admin Panel';\n				$data->title = null;\n				break;\n		}\n		\n		$this->loadDefaultTemplates(['header','top','sidebar'],(object)['header_title'=>$header_title]);\n		\n\n		// Select mid contents depending on the task\n		switch ($task) {\n			case 'edit_profile':\n				$check_edit_submit = $this->model->check_edit_submit('users',$this->session->user->id,$task);				\n				$data->info = $check_edit_submit->info;\n				$data->errors = $check_edit_submit->errors;				\n				$this->loadView('admin/new/header',$data);\n				$this->model->loadFields('users', $data,$task);\n				$this->loadView('admin/new/footer',$data);\n				break;\n			case 'change_password':				\n				$check_passwordChange_submit = $this->model->check_edit_submit('users',$this->session->user->id,$task);\n				$data->info = $check_passwordChange_submit->info;\n				$data->errors = $check_passwordChange_submit->errors;				\n				$this->loadView('admin/new/header',$data);\n				$this->model->loadFields('users', $data,$task);\n				$this->loadView('admin/new/footer',$data);\n				break;		\n			default:\n				$this->loadView('admin/profile/'.$task,$data);\n				break;\n		}\n\n		$this->loadModals(['image-select','default-modal'],'users');		\n		$this->loadDefaultTemplates(['footer']);\n	}\n\n	public function ajaxFetch()\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n		$this->loadView('admin/data/ajaxFetch',$this->db);\n	}\n\n	public function upload_single($album_id = null)\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$json = $this->model->upload_single($album_id);\n		$this->loadView('admin/upload/image_upload_single',$json);\n	}\n\n	public function upload_multiple($album_id = null)\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$json = $this->model->upload_multiple($album_id);\n		$this->loadView('admin/upload/image_upload_multiple',$json);\n	}\n\n	public function get_album_list()\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n		$this->loadView('admin/data/get_album_list',(object)['url'=>URL,'db'=>$this->model->db]);\n	}\n\n	public function get_album_photos()\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$photos = $this->model->get_album_photos($this->post->id);		\n		$this->loadView('admin/data/display_album_photos',(object)['photos'=>$photos]);\n	}\n\n	/*\n		publishes entry from ajax request\n	*/\n	public function publish_entry()\n	{\n		$this->loadModel('adminModel');\n\n		if ($this->model->user_logged_in()) {\n\n			/*\n				@var = object , the result of the publish request in json format\n				Valid info format:\n				{\n					type 	: 'success | error',\n					content : 'Some message',\n					button 	: {\n								title : 'Button Text',\n								link  : 'http://button.link'\n							}\n				}\n			*/				\n\n			$result = $this->model->check_publish_entry();\n\n			$this->loadView('admin/data/publish_entry',$result);\n\n		}\n		else\n		{\n\n			header('location: '.URL.'admin/error');\n\n		}\n\n	}\n\n\n	/*\n		get an item's data from db, initiated by an ajax request\n	*/\n	public function get_item_data()\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		// check post items from ajax\n		if ( !empty($this->post->page) && !empty($this->post->id) ) {\n\n			$data = $this->model->get_item_data($this->post->page,$this->post->id);\n\n			$this->loadView('admin/data/get_item_data',$data);\n\n		}\n\n	}\n\n\n	/*\n		displays the site_settings page\n	*/\n	public function site_settings()\n	{\n		$this->loadModel('adminModel');\n		$this->model->check_login();\n\n		$arg = (object)[\n			'info'=>$this->model->check_settings_submit(),\n			'header_title'=>'Site Settings | Admin Panel',\n			'settings_list'=>$this->model->get_settings_list()\n		];\n\n		$this->loadDefaultTemplates(['header','top','sidebar'],$arg);\n		$this->loadView('admin/site_settings/header',$arg);\n		$this->loadView('admin/site_settings/content',$arg);\n		$this->loadView('admin/site_settings/footer');\n		$this->loadDefaultTemplates(['footer'],$arg);\n\n	}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n	// test page\n	public function _test($page='index')\n	{		\n		require APP.'views/admin/test/php_sdk/autoload.php';\n		\n		$this->loadView('admin/test/index');\n		\n	}\n\n\n}",
+			"file": "application/controllers/admin.php",
+			"file_size": 14426,
+			"file_write_time": 130800302044617195,
+			"settings":
+			{
+				"buffer_size": 13895,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/core/base.php",
+			"settings":
+			{
+				"buffer_size": 2566,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/core/MainModel.php",
+			"settings":
+			{
+				"buffer_size": 1689,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/libraries/FacebookLib/FacebookLib.php",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/work/ccci.org",
+		"/C/xampp/htdocs/work/ccci.org/application",
+		"/C/xampp/htdocs/work/ccci.org/application/config",
+		"/C/xampp/htdocs/work/ccci.org/application/controllers",
+		"/C/xampp/htdocs/work/ccci.org/application/core",
+		"/C/xampp/htdocs/work/ccci.org/application/libraries",
+		"/C/xampp/htdocs/work/ccci.org/application/model",
+		"/C/xampp/htdocs/work/ccci.org/application/views",
+		"/C/xampp/htdocs/work/ccci.org/public",
+		"/C/xampp/htdocs/work/ccci.org/public/css",
+		"/C/xampp/htdocs/work/ccci.org/public/js",
+		"/C/xampp/htdocs/work/ccci.org/public/libs"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/work/ccci.org/application/core/MainModel.php",
+		"/C/xampp/htdocs/work/ccci.org/application/libraries/FacebookLib/load_sdk.php",
+		"/C/xampp/htdocs/work/ccci.org/application/libraries/FacebookLib/methods/post.php",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/Facebook.js",
+		"/C/xampp/htdocs/work/ccci.org/application/config/config.php",
+		"/C/xampp/htdocs/work/ccci.org/application/core/base.php",
+		"/C/xampp/htdocs/work/ccci.org/application/model/FacebookModel.php",
+		"/C/xampp/htdocs/work/ccci.org/application/controllers/updates.php",
+		"/C/xampp/htdocs/work/ccci.org/application/views/admin/_modals/modal-publish.php",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/DOMready.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/script.js",
+		"/C/xampp/htdocs/work/ccci.org/Gulpfile.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/script.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/inputRemove.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/uploader.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/gallery.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/ajaxPublish",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/endtryEdit.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/imageSelect.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/uploadButton.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/UploadButton.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/itemsList.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/sticky.js",
+		"/C/xampp/htdocs/work/ccci.org/public/js/admin/modules/buttons.js",
+		"/Z/Jayson/pending/wattsmart/src/highcharts test/index.html",
+		"/Z/Jayson/pending/wattsmart/src/highcharts test/css/style.css",
+		"/C/Users/Jhing/Documents/Freemake/FreemakeVideoDownloader/History/DefaultHistory.xml",
+		"/Z/Jayson/pending/wattsmart/src/highcharts test/js/script.js",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/core/loader.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/model/TestModel.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/model/main.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/controllers/locationsphp.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/controllers/locations.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/views/public/updates/events_single.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/controllers/ministry.php",
+		"/C/xampp/htdocs/CodeIgniter/application/core/index.html",
+		"/C/xampp/htdocs/.htaccess",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/core/load.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/.htaccess",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/views/public/home/about.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/views/public/about",
+		"/C/Jhing Files/jfb/pending/CCC website (ccciweb.honor.es)/mockup/03/src/css/layout_global.css",
+		"/C/Jhing Files/jfb/pending/CCC website (ccciweb.honor.es)/mockup/03/home/src/css/style.css",
+		"/C/Jhing Files/jfb/pending/CCC website (ccciweb.honor.es)/mockup/03/home/src/css/layout_global.css",
+		"/C/Jhing Files/jfb/pending/CCC website (ccciweb.honor.es)/mockup/03/home/src/index.html",
+		"/C/Windows/System32/java_test/01/Test.java",
+		"/C/Users/Jhing/workspace/HelloWorld/src/HelloWorld.java",
+		"/C/Users/Jhing/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/xampp/htdocs/test/ccciwebtest.honor.es/application/config/config.php",
+		"/C/xampp/htdocs/test/ccciwebtest.honor.es/public/css/admin/style_global.css",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/views/admin/test/logout.php",
+		"/C/xampp/htdocs/test/ccciweb.honor.es/application/config/config.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/model/adminModel.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/repeat_password.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/img_url.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/permission.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/view/view_gallery.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/view/header.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/new/footer.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/meta_fields.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/core/base.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/config/config.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/index.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/_templates/top.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/img_title.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/mission.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/vision.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/controllers/admin.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/_templates/sidebar.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/contact.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/new/header.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/_templates/header.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/view/view_list.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/password.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/home/register_header.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/home/register_footer.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/script.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/_modals/image-select.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/date_custom.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/Helpers.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/date_publish.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/App.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/DOMready.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/Collapse.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/_modals/default-modal.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/js/Dropdown.js",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/css/admin/style_md.css",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/css/admin/style_sm.css",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/fields/username.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/application/views/admin/profile/summary.php",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/css/admin/style_global.css",
+		"/C/xampp/htdocs/test/ccciweb.2fh.co/public/css/admin/style_large.css",
+		"/C/Users/Jhing/AppData/Local/Temp/fz3temp-1/adminModel.php",
+		"/C/xampp/htdocs/test/05/fb_js_sdk/index.php",
+		"/C/Users/Jhing/AppData/Local/Temp/fz3temp-1/admin.php",
+		"/C/Users/Jhing/AppData/Local/Temp/fz3temp-1/script.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"library_name",
+			"load_library",
+			"load_service",
+			"link",
+			"add_",
+			"\\\\",
+			".which",
+			"updateProps",
+			"AjaxPublish",
+			"updateProps",
+			"AjaxPublish",
+			"header_title",
+			"new",
+			"AjaxPublish",
+			"listPhotos",
+			"Image",
+			"Image\\",
+			"get_album_pho",
+			"AjaxPublish",
+			"print_r",
+			"add_new",
+			"register_suc",
+			"sidebar-m",
+			"##",
+			"i != 0 ? null : Math.random()",
+			"number",
+			"$scope.",
+			"this",
+			"process_pos",
+			".posts-list",
+			"post-con",
+			"artic'",
+			"articl",
+			"post-i",
+			"post-li",
+			"posts-lis",
+			"post-lis",
+			"post-li",
+			"cf",
+			"clearfix",
+			"post-item",
+			"post-single-image",
+			"post-list",
+			"post-image",
+			"Stories",
+			"$this->News->",
+			"$this->Events",
+			"AjaxPublish",
+			"Events",
+			"M",
+			"date",
+			"check_",
+			"check",
+			"default article",
+			"section-content-header",
+			"$pastor",
+			"insert_",
+			"check_add_",
+			"insert_db",
+			"}\n",
+			"insert_db",
+			"load_where",
+			"summary-btn-add",
+			"site-status-radio",
+			".sidebar",
+			"modal",
+			"item",
+			"get_item_data",
+			"edit",
+			"get_column_names",
+			"local_churches",
+			"hel",
+			"thumbnail-container peop",
+			"btn",
+			"li4",
+			"<p>\n										Service Schedules\n									</p>",
+			"<h4>Service Title Here</h4>",
+			"<h5>Service Title Here</h5>",
+			"locations/",
+			"locations",
+			"li4",
+			"<a href=\"/updates/events/1\" class=\"post-image\">",
+			"$data->subpage",
+			"<a class=\"btn latest-post-link-btn\">",
+			"<div class=\"btn latest-post-link-btn\">",
+			"img/assets",
+			"event_perma_title",
+			"xi",
+			"sidebar",
+			"posts",
+			"post-single-sidebar-header",
+			"<a href=\"#\" class=\"post-image\">",
+			"get_instance(",
+			"function get_instance(",
+			"function get_instance",
+			"n get_instance",
+			"get_instance",
+			"->TABLE_NAME",
+			"new",
+			"btn",
+			"style=\"background-image:url('img/assets/",
+			"<div class=\"people-image\">\n						<img src=\"img/assets/pic/sampl",
+			"pastors_single.php",
+			"<div class=\"people-item\">\n								<a href=\"#\" class=\"people-image\">",
+			"<img src=\"img/assets/pic/",
+			"back",
+			"branc",
+			"bran",
+			"img/assets/pic",
+			"light",
+			"<a href=\"#\" class=\"thumbnail-container\">",
+			"href=\"#\"",
+			"$data",
+			"navlink-active",
+			"js/public",
+			"css/public",
+			".nav-main-menu > li li a",
+			"../img",
+			"js/",
+			"css/",
+			"get_field_values",
+			"edit",
+			".register-",
+			".register_s",
+			"register_s",
+			"js/",
+			"style=\"background-image:url('",
+			"calcSize();"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/admin/view/view_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3230,
+								1885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/admin/view/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/admin/view/view_list_albums.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1925,
+								1925
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/admin/new/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								711,
+								711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/js/admin/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/views/admin/_templates/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1817,
+								1817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/controllers/updates.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/css/public/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6501,
+								6501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6244.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/model/adminModel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52301,
+								52301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 23434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "public/js/admin/modules/ajaxPublish.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6589,
+								6593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3022.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "application/controllers/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3633,
+								3645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/core/base.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2339,
+								2339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/core/MainModel.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "application/libraries/FacebookLib/FacebookLib.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1737,
+								1737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ccciweb.dev.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Jhing Files\\jfb\\others\\sublime projects\\ccciweb.dev\\ccciweb.dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

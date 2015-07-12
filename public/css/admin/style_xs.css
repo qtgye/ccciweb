@@ -1,0 +1,92 @@
+/*
+	MEDIA QUERY FOR SMALL TO MEDIUM TABLET SIZE
+	MIN: 601px;
+
+	TABLE OF CONTENTS:	
+	-	LOGIN AND REGISTRATION STYLES
+*/
+
+
+
+	
+/*
+	LOGIN AND REGISTRATION STYLES
+*/
+
+option[disabled] {
+	
+}
+.required {
+	
+}
+.error {
+	
+}
+.inline-block {
+	
+}
+.login-section {
+	width: 60%;
+}
+.register-section {
+	
+}
+	.register-section .inputs {
+				
+	}
+		.register-section .table-fields {
+						
+		}
+			.register-section .row {
+				
+			}					
+.login-section input[type="submit"] {
+
+}
+.login-error {
+
+}
+	 .register-section h2 {
+		
+	}
+	.register-section a,
+	.register-section p,
+	.register-section label
+	{
+		
+	}
+	.register-section form {		
+		
+	}					
+		.register-section input[type="text"],
+		.register-section input[type="date"],
+		.register-section input[type="email"],
+		.register-section select,
+		.register-section input[type="password"] {
+			
+		}			
+	.social {			
+		text-align: center;
+	}
+		.social p {
+			
+		}
+		.btn.btn-social {
+			width: 48%;
+			display: inline-block;
+		}		
+		.btn.btn-social:hover {
+			
+		}
+		.btn.fb {
+			
+		}
+		.btn.g {
+			
+		}	
+.date-popup {
+	
+}	
+.register-section .notice {
+	
+}

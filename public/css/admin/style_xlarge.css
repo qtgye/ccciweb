@@ -1,0 +1,536 @@
+/*
+	MEDIA QUERY FOR DESKTOP COMPUTERS
+	MIN: 1025px;
+
+	TABLE OF CONTENTS:	
+	-	MAIN LAYOUT STYLES
+	-	SIDEBAR STYLES
+	-	CONTENT STYLES
+	-	MODAL STYLES
+	-	GALLERY STYLES
+	-	LOGIN AND REGISTRATION STYLES
+*/
+
+
+
+
+/*
+	MAIN LAYOUT STYLES
+*/
+.preloader {		
+
+}
+	.loader {
+		background-size: 30%;
+	}
+
+
+.header {
+
+}
+	.header > div {
+
+	}
+		a#view-site-link {
+			
+		}
+		.header-item.sidebar-toggle {
+			
+		}
+		.header-item.logout {
+			
+		}
+			.header-item.logout span {
+				
+			}	
+
+
+
+
+
+/*
+	SIDEBAR STYLES
+*/
+
+.sidebar {	
+	overflow: visible;		
+}
+	.sidebar-options {
+		
+	}
+	.sidebar-header {
+		
+	}	
+		.sidebar-header-options {
+			
+		}
+		.user-welcome, .user-options {
+			
+		}
+		.user-welcome {
+			
+		}
+		.user-welcome {
+			
+		}
+		.user-options {
+			
+		}
+		.notification-toggle-collapse {
+			display: none;
+		}
+		.notification-toggle-hover {
+			display: inline-block;
+		}
+			.notification-toggle-hover:hover .notification-menu {
+				display: block !important;	
+			}
+			.notification-menu {
+				
+			}
+		.settings-toggle-collapse {
+			display: none;
+		}
+		.settings-toggle-hover {
+			display: inline-block;
+		}
+			.settings-toggle-hover:hover .settings-menu {
+				display: block !important;	
+			}
+			.settings-menu {
+				
+			}
+	.sidebar-menu {
+		
+	}
+		.sidebar-menu-header {
+			
+		}
+			.sidebar-menu ul li:hover > a {
+				background: #ccc;
+			}
+			.sidebar-menu ul li:hover > ul {
+				display: block;
+				-webkit-box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+				box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+			}
+				.sidebar-menu ul li ul li {
+					display: block;
+				}
+					.sidebar-menu a:active,
+					.sidebar-menu a:visited,
+					.sidebar-menu a:link {
+					    display: block;
+					}
+
+
+/*
+	CONTENT STYLES
+*/
+
+.content {
+	
+}
+	.panel-title {
+		
+	}
+
+
+
+/*
+	DATA FIELDS STYLES
+*/
+
+.table-fields {	
+	width: 80%;
+}
+	.row {
+		
+	}
+		.row-cell{
+		
+		}		
+
+.edit-options {
+	width: 80%;
+	margin: auto;
+}
+
+
+/*
+	MODAL STYLES
+*/
+
+.data-preview{	
+	display: table;
+	width: 90%;
+	margin: auto;		
+}
+	.data-preview-row {	
+		display: table-row;						
+	}
+		.data-preview-col {
+			display: table-cell;
+			vertical-align: top;
+			padding: 0 10px;				
+			border-bottom: 1px solid silver;
+		}			
+		.data-preview-col.meta {
+			padding: 0 10px;			
+		}
+		.data-preview-col.meta {
+			padding: 0 10px;			
+		}
+			.data-title {
+				background: silver;
+				font-family: 'Cambria','Times New Roman',serif;
+				font-style: italic;
+				font-weight: bolder;
+				color: #fff;				
+				padding: 5px;
+				text-align: right;
+				width: 1px;
+				white-space: nowrap;				
+			}
+			.data-content {				
+				padding: 10px;
+				text-align: left;
+			}
+			.data-preview-trMeta {
+				
+			}
+				.data-preview-trMeta {
+				
+				}
+					.data-title.meta {
+						background: silver;
+						color: #fff;
+					}
+					.data-content.meta {						
+						color: gray;
+						font-size: 0.8em;
+					}					
+				.data-preview img {			
+					width:50%;					
+				}
+				.data-preview h1, .data-preview h2, .data-preview h3, .data-preview h4, .data-preview h5, .data-preview a {
+					color: inherit;
+				}
+				.data-preview a {
+					text-decoration: underline;
+				}
+				.service-preview-item {
+					padding: 10px 5px;
+				}
+					.service-data label {
+						font-family: 'Cambria','Times New Roman',serif;
+						font-style: italic;
+						font-weight: bold;
+					}
+				.days_options {
+					display: block;	
+					padding: 10px 0;				
+				}
+					.service_days {
+						text-align: center;	
+						padding: 5px;	
+						border-bottom: 1px solid silver;
+						display: table;
+						margin: auto;				
+					}
+					.add_day {
+						padding: 5px 30px;
+					}
+
+		/*
+			MODAL BUTTONS
+		*/
+		.modal-buttons {				
+		}	
+			.modal-buttons .btn, .modal-buttons input.btn, .modal-buttons a.btn {
+				vertical-align: top;
+				display: inline-block;
+				padding: 10px 0;
+				margin: 5px auto;
+				width: 30%;
+				font-size: inherit;
+			}	
+			.modal .btn-close {
+				display: none;
+				padding: 10px 0;
+				width: 90%;
+				margin: auto;
+			}
+			.modal-btn-trash, .modal-btn-delete {
+				color: silver;
+				font-style: italic;
+			}
+			.modal-confirm-delete {
+				width: 60%;	
+				margin: auto;
+				padding: 5px 0 20px 0;
+			}
+
+
+/*
+	GALLERY STYLES
+*/
+.gallery {		
+}
+	.g_header,  .g_options{
+		
+	}
+	.g_header {
+		
+	}
+		.g_title {
+			display: block;
+		}
+		.g_info {			
+			display: inline-block;
+		}	
+		.g_header .btn{
+			
+		}	
+	.g_options {		
+		text-align: center;
+		padding: 5px 5px 0 5px;
+	}
+		.g_options label {
+				float: right;
+		}
+			.checked_options {
+				text-align: center;
+			}
+				.target_album {
+					display: inline-block;
+				}
+				.checked_options_buttons {
+					display: inline-block;
+				}						
+			.g_check_all {				
+			
+			}
+			.g_options .btn {
+				
+			}	
+			.g_options .thumbnail_size_buttons {
+				padding: 5px;
+				display: inline-block;				
+				float: left;
+			}	
+			.thumbnail_size_buttons.btn {
+				display: inline-block;
+			}	
+				.btn-thumb-large {
+					background: url('../../public/img/assets/icons/thumbnail_L.png');
+				}
+				.btn-thumb-small {
+					background: url('../../public/img/assets/icons/thumbnail_S.png');
+				}
+				.btn-thumb-large, .btn-thumb-small {
+					background-repeat: no-repeat;
+					background-position: center center;					
+					opacity: 0.5;		
+				}
+			.g_options .btn-pressed {
+				opacity: 1;
+				border: 1px solid black;
+				border: 1px solid rgba(0,0,0,0.8);
+				background-color: #4FA300;
+				-webkit-box-shadow: inset 2px 2px 2px rgba(0,0,0,0.5);
+				box-shadow: inset 2px 2px 2px rgba(0,0,0,0.5);
+			}
+		.g_options .g_checked_count {			
+			padding: 5px 10px;
+			color: white;				
+			font-size: 0.8em;
+			font-style: italic;
+			margin: auto;				
+			display: none;
+			position: static;	
+			float: right;
+			clear: none;				
+		}
+	.g_thumbnail_grid {		
+		padding: 80px 0;
+		text-align: center;	
+	}
+		.g_thumbnail_grid * {
+			transition: all 0.3s ease;			
+		}
+			.g_thumbnail {			
+				margin: 10px 0.5% 30px 0.5%;		
+				display: inline-block;
+				vertical-align: top;						
+				border: 1px solid silver;			
+				border-radius: 3px;
+				overflow: hidden;
+				width: 30%;
+			}
+			.thumbnail_large .g_thumbnail {
+				width: 23%;
+			}
+			.thumbnail_small .g_thumbnail {
+				width: 18%;
+			}		
+		.g_thumbnail_grid .g_thumbnail:hover {
+			background: #f5f5f5;
+		}
+			.g_thumbnail_opts, .g_thumbnail_img, .g_thumbnail_caption {				
+				display: block;
+				margin: auto;				
+			}
+				.g_thumbnail_delete {
+					color: silver;
+				}				
+			.g_thumbnail_opts, .g_thumbnail_caption {
+				width: auto;
+				padding: 5px;
+				margin-bottom: 5px;
+			}
+			.g_thumbnail_opts	{
+				font-size: 0.8em;
+				font-style: italic;
+				overflow: hidden;
+				word-break:break-all;
+			}				
+				.g_thumbnail_opts .g_options_checkbox {
+					display: inline-block;
+					margin-right: 2px;
+					margin-bottom: 2px;
+					line-height: 0.8em;					
+				}
+			.g_thumbnail_img {
+				width: 95%;
+			}			
+			.g_thumbnail .g_thumbnail_img {
+				width: 90%;
+				height: 6em;
+				display: block;
+				margin: auto;
+				overflow: hidden;
+			}
+				.g_thumbnail_img img {
+					width: 100%;					
+					display: block;
+				}
+			.g_thumbnail .g_thumbnail_caption {
+				padding-bottom: 2em;
+				position: relative;
+			}
+				.g_thumbnail_caption textarea {
+					position: absolute;
+					width: 95%;
+					left: 2.5%; bottom: 5px;
+					height: 1.2em;
+					overflow-y: auto; 
+					resize: none;
+					padding: 5px 0;
+					display: block;
+					margin: auto;
+					/*opacity: 0.5;*/
+					font-style: 'Gotham-Book',sans-serif;
+					font-size: 0.8em;
+				}
+				.g_thumbnail_caption textarea:focus {					
+					height: 5em;				
+					/*opacity: 1;					*/
+				}
+			.g_thumbnail .g_thumbnail_meta {
+				padding: 5px 0;
+			}
+				.g_thumbnail .g_thumbnail_meta p {
+					padding: 0 5px;
+					font-size: 0.5em;
+					font-style: italic;
+					color: silver;
+				}		
+	.title_block {
+		padding: 5px;
+		word-break: break-all;
+		font-style: italic;
+		font-size: 0.8em;
+	}
+
+
+
+/*
+	LOGIN AND REGISTRATION STYLES
+*/
+
+option[disabled] {
+
+}
+.required {
+
+}
+.error {
+	
+}
+.inline-block {
+	
+}
+.login-section {
+	
+}
+.register-section {
+	width: 70%;
+}
+	.register-section .inputs {
+		
+	}
+		.register-section .table-fields {
+				
+		}
+			.register-section .row {				
+
+			}					
+.login-section input[type="submit"] {
+
+}
+.login-error {
+
+}
+	 .register-section h2 {
+	
+	}
+	.register-section a,
+	.register-section p,
+	.register-section label
+	{
+			
+	}
+	.register-section form {		
+		
+	}					
+		.register-section input[type="text"],
+		.register-section input[type="date"],
+		.register-section input[type="email"],
+		.register-section select,
+		.register-section input[type="password"] {
+								
+		}			
+	.social {
+	
+	}
+		.social p {			
+		}
+		.btn.btn-social {
+			
+		}		
+		.btn.btn-social:hover {
+			opacity: 0.8;
+		}
+		.btn.fb {
+		
+		}
+		.btn.g {
+								
+		}	
+.date-popup {
+
+}	
+.register-section .notice {
+
+}

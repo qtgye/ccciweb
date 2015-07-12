@@ -1,0 +1,522 @@
+/* 
+	THIS CONTAINS THE SITE-WIDE LAYOUT FOR SMALLEST SCREEN SIZE
+ */
+
+header { 	
+	
+}
+header.header-contract
+{
+	background: #004605;
+}
+	header.header-contract .header-content
+	{
+		width: 98%;		
+	}
+		header.header-contract .brand a
+		{
+			width: 180px;
+ 			height: 45px;
+		}
+
+ 	.header-content {
+ 		
+ 	}
+ 		.brand, .nav-group {
+ 			
+ 		}
+ 		.brand { 			
+ 		}
+ 			.brand a {
+ 				background-image: url('../../img/assets/logo/logo_slice_med.png');
+ 				width: 250px;
+ 				height: 62px;
+ 				transition: all 0.3s ease;
+ 			}
+ 		.nav-group {
+ 			
+ 		}
+ 			.nav-toggle-open {
+ 												
+ 			}
+ 			.nav-main { 
+ 				width: 60%;
+ 			} 
+ 			.nav-main.nav-show { 
+ 				left: 40%;
+ 			}	
+ 				.nav-toggle-close {
+ 					
+ 				}						
+ 				.nav-main-menu {
+					
+ 				}
+ 					.nav-main-menu li {
+ 						padding: 10px;
+ 					}
+ 					.nav-main-menu a {
+ 						
+ 					}
+ 					.nav-main-menu a:hover {
+ 						
+ 					} 						
+	 					.nav-main-menu > li > a {
+							
+		 				}
+		 					.nav-main-menu li ul {
+								padding: 10px;					
+			 				}
+			 					.nav-main-menu li li {
+									padding: 5px 10px;
+				 				}	 			
+				 					.nav-main-menu > li li a {
+																				
+					 				}	
+				.nav-main-social {
+					
+				}
+				.nav-main-social li {
+					
+				}			
+.main-content {
+	padding-top: 75px;
+}
+	.banner-wrapper {
+		
+	}
+		.banner {
+			background-image: url('../../img/assets/bg/banner_bg_med.jpg');
+			background-size: 100% auto;
+		}
+	.section-wrapper {
+		
+	}	
+		.section-body {
+			padding: 0;
+			width: 100%;
+		}
+			.section-content-header {
+				
+			}
+			.people-single .section-column .section-content-header {
+				padding-top: 0;
+				margin-left: 0;
+			}
+				.section-content-header h3 {					
+				}
+				.about-intro h1 {
+					
+				}
+			.section-content {
+				width: 95%;
+				margin: auto;
+			}
+			.section-content.section-column-group
+			{
+				display: block;	
+				width: 90%;			
+				white-space: nowrap;				
+			}	
+			.section-column-group:after {
+				display: table;
+				content: '';
+				clear: both;
+			}		
+				.section-column.section-column-12 { width: 100% }
+				.section-column.section-column-11 { width: 91.666666666666666666666666666667%; width: calc((11/12)*100%);}
+				.section-column.section-column-10 { width: 83.333333333333333333333333333333%; width: calc((10/12)*100%);}
+				.section-column.section-column-9 { width: 97%; width: calc((9/12)*100%);}
+				.section-column.section-column-8 { width: 66.666666666666666666666666666667%; width: calc((8/12)*100%);}
+				.section-column.section-column-7 { width: 58.333333333333333333333333333333%; width: calc(700%/12);}
+				.section-column.section-column-6 { width: 50%; width: calc((6/12)*100%);}
+				.section-column.section-column-5 { width: 41.666666666666666666666666666667%; width: calc(500%/12);}
+				.section-column.section-column-4 { width: 33.333333333333333333333333333333%; width: calc((4/12)*100%);}
+				.section-column.section-column-3 { width: 25%; width: calc((3/12)*100%);}
+				.section-column.section-column-2 { width: 16.666666666666666666666666666666%; width: calc((2/12)*100%);}
+				.section-column.section-column-1 { width: 9.0909090909090909090909090909091%; width: calc((1/12)*100%);}
+				
+				.people-single .section-column.section-column-7 {float: left;}
+				.people-single .section-column.section-column-5 {float: right;}
+
+				.section-column {
+					display: inline-block;
+					white-space: normal;
+					vertical-align: top;
+					float: left;
+				}
+
+				.page-title-block {					
+					
+				}
+					h1.page-title {
+						
+					}
+				.mission-intro, .branches-intro {
+					
+				}
+					.mission-intro h3, .branches-intro h3 {
+						
+					}
+						.mission-intro-content, .branches-intro-content {
+							
+						}
+							.mission-intro-btn {
+								
+							}
+					.branches-intro {
+
+					}
+						.branches-intro-content {
+							white-space: nowrap;
+							text-align: center;
+						}
+							.branch-item {
+								display: inline-block;
+								width: 40%;
+								text-align: center;
+								padding: 0 10px;			
+							}
+								h3.branch-title {
+									
+								}									
+								.branch-logo-container {
+
+								}
+									.branch-logo-link {
+									
+									}
+										.branch-logo-link img {
+											width: 100%;
+										}
+					.locations-intro {
+						text-align: center;
+					}
+						.location-list {
+							padding: 20px 0;
+							vertical-align: middle;
+						}
+							.location-item {
+								width: 25%;
+								display: inline-block;
+								margin: 5px;
+								vertical-align: middle;
+							}
+								.location-item-link {
+									padding: 15px 0;
+								}
+								.location-item-link:hover {
+									/*background: #555;													*/
+								}
+					.updates-intro {
+						
+					} 
+						.updates-intro h1 {
+							
+						}
+							.updates-body {
+								border: 1px solid #7B7B7B;
+								margin-top: 30px;								
+							}
+								.latest-event, .latest-posts {
+									width: 95%;
+									margin: auto;
+									white-space: nowrap;
+									padding: 30px 0;
+								}								
+									.latest-event .latest-post-content, .latest-event .event-photo {
+										width: 50%;
+										display: inline-block;
+										vertical-align: top;
+										padding: 0 10px;
+									}
+								.latest-posts {									
+									white-space: normal;	
+									padding-bottom: 0;		
+								}
+									.latest-post-item {
+										width: 48%;
+										display: inline-block;
+										border-bottom: none;
+										padding: 20px 0;
+										margin: 0;
+									}
+									.latest-post-item-header {
+										
+									}
+									.event-photo img {
+										
+									}
+									.latest-post-content {
+										width: 90%;										
+									}
+										.latest-post-title {
+																				
+										}
+										.latest-post-meta {
+											
+										}
+										.latest-post-text {
+											max-height: 5em;
+											overflow: hidden;											
+										}
+										.latest-post-link-btn {
+											
+										}
+			.posts-list {
+				
+			}
+				.post-item {
+					width: 100%;
+				}
+					.post-image {
+						width: 40%;
+						display: block;
+						float: left;
+					}
+						.post-image img {
+
+						}
+					.post-header {
+						width: 58%;
+						float: right;						
+					}
+						.post-title {
+							
+						}
+						.post-meta {
+							
+						}
+					.post-content {
+						width: 58%;
+						float: right;						
+					}
+						.post-content .post-link-btn {
+							float: left;
+						}
+				.people-list {					
+					white-space: normal;
+					text-align: center;
+				}
+					.people-item {
+						border-top: none;
+						display: inline-block;
+						width: 32%;
+						vertical-align: top;
+						padding-top: 0;
+					}
+					.people-item > * {
+						width: 90%;
+						margin: auto;
+						display: block;
+					}
+						.people-image {
+							
+						}
+							.people-image img {
+							
+							}
+						.people-info {
+							
+						}
+							.people-name {								
+								
+							}
+							.people-description {
+								
+							}
+						.people-social-list	{
+						
+						}
+					h3.people-name{
+					
+					}	
+				.people-single-info {
+					padding: 0;
+				}
+					.people-single-info > * {
+						padding-right: 20px;
+					}
+
+					.people-single-meta {
+
+					}	
+					.people-single-bio {
+						
+					}
+					.people-single-social-list {
+						
+					}
+						.people-single-social-header {							
+							
+						}
+						.people-single-social-item {
+							
+						}
+							.people-single-social-item * {
+								
+							}
+				.post-single-wrapper {
+					
+				}
+					.post-single-wrapper > * {					
+						
+					}
+					.post-single-title {								
+						
+					}
+						.post-single-title h1 {
+							
+						}
+					.post-single-meta {
+						
+					}
+						.post-single-meta p {
+							
+						}
+					.post-single-image {
+						text-align: center;
+					}
+						.post-single-image img {
+							max-width: 650px;
+							max-height: 450px;
+						}				
+					.post-single-content {
+						width: 90%;
+						margin: auto;
+						float: none;
+					}
+						.post-single-content p {
+							
+						}
+			.post-single-sidebar {
+				padding: 0;
+				margin-top: 30px;
+			}
+			.post-single-sidebar > * {
+				
+			}
+				.post-single-sidebar-header {				
+
+				}
+				.post-single-sidebar-list {
+					
+				}
+					.post-single-sidebar-item {
+						
+					}
+						.post-sidebar-item-header {							
+						}
+						.post-sidebar-item-content {
+							
+						}
+			.albums-list {	
+
+			}
+				.album-item {					
+					width: 32%;
+				}
+					.thumbnail-container {
+						width: 200px;
+						height: 200px;
+					}
+						.thumbnail-title {
+															
+						}
+							.thumbnail-title h3 {
+								
+							}
+						.thumbnail-overlay  {
+						
+						}
+						.thumbnail-image {
+
+						}	
+			.photos-list {
+				
+			}
+				.photo-item {
+					width: 32%;				
+				}
+
+		.post-single-sidebar {
+				background: none;
+			}
+			.post-single-sidebar > * {
+				width: 90%;
+				margin: 0 0 0 auto;
+			}
+				.post-single-sidebar-header {
+					
+				}
+				.post-single-sidebar-list {
+					padding: 10px 5px;
+					background: #eee;
+				}
+					.post-single-sidebar-item {
+						
+					}
+						.post-sidebar-item-header {							
+						}
+						.post-sidebar-item-content {
+							
+						}
+
+
+footer {					
+	padding: 0;
+}
+	.footer-content {
+		width: 95%;
+	}
+		.footer-quicklinks {
+
+		}
+			.quicklinks-list {
+				
+			}
+				.quicklink-item {
+					margin: 0;
+					width: 33%;
+					float: left;
+				}
+					.quicklink-item ul {
+						
+					}
+						.quicklink-item li {					
+							float: none;
+							display: block;
+						}
+							.quicklink-item a:link, .quicklink-item a:visited, .quicklink-item a:active {
+								
+							}
+							.quicklink-item a:hover {
+								
+							}
+		.footer-social {
+			
+		}
+			.footer-social-list {
+				
+			}
+				.footer-social li {
+					
+				}
+		.footer-brand {
+
+		}
+			.footer-brand-link {
+						
+			}
+			.footer-logo-image {
+				
+			}
+		.footer-copyright {
+			
+		}
+			.footer-copyright a {
+				
+			}
+
+
+
+/* LIBRARY OVERRIDES */

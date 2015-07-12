@@ -1,0 +1,339 @@
+/* 
+	THIS CONTAINS THE SITE-WIDE LAYOUT FOR SMALLEST SCREEN SIZE
+ */
+
+header { 	
+	
+}
+header.header-contract
+{
+	
+}
+	header.header-contract .header-content
+	{
+		
+	}
+
+ 	.header-content {
+ 		
+ 	}
+ 		.brand, .nav-group {
+ 			
+ 		}
+ 		.brand { 			
+ 		}
+ 			.brand a {
+ 			
+ 			}
+ 		.nav-group {
+ 			
+ 		}
+ 			.nav-toggle-open {
+ 												
+ 			}
+ 			.nav-main { 
+ 				width: 60%;
+ 			} 
+ 			.nav-show .nav-main { 
+ 				left: 40%;
+ 			}	
+ 				.nav-toggle-close {
+ 					
+ 				}						
+ 				.nav-main-menu {
+					
+ 				}
+ 					.nav-main-menu li {
+ 						padding: 10px;
+ 					}
+ 					.nav-main-menu a {
+ 						
+ 					}
+ 					.nav-main-menu a:hover {
+ 						
+ 					} 						
+	 					.nav-main-menu > li > a {
+							
+		 				}
+		 					.nav-main-menu li ul {
+								padding: 10px;					
+			 				}
+			 					.nav-main-menu li li {
+									padding: 5px 10px;
+				 				}	 			
+				 					.nav-main-menu > li li a {
+																				
+					 				}	
+				.nav-main-social {
+					
+				}
+				.nav-main-social li {
+					
+				}			
+.main-content {
+		
+}
+	.banner-wrapper {
+		
+	}
+		.banner {
+			background-size: 100% auto;
+		}
+	.section-wrapper {
+		
+	}	
+		.section-body {
+			width: 90%;
+			margin: auto;
+			margin: auto;
+			padding: 0;
+		}
+			.section-content-header {
+
+			}
+				.section-content-header h1 {
+							
+				}
+				.about-intro h1 {
+					
+				}
+			.section-content {
+
+			}
+				.mission-intro, .branches-intro {
+					
+				}
+					.mission-intro h3, .branches-intro h3 {
+						
+					}
+						.mission-intro-content, .branches-intro-content {
+							
+						}
+							.mission-intro-btn {
+								
+							}
+					.branches-intro {
+
+					}
+						.branches-intro-content {
+							white-space: nowrap;
+							text-align: center;
+						}
+							.branch-item {
+								display: inline-block;
+								width: 40%;
+								text-align: center;
+								padding: 0 10px;			
+							}
+								h3.branch-title {
+									
+								}									
+								.branch-logo-container {
+
+								}
+									.branch-logo-link {
+									
+									}
+										.branch-logo-link img {
+											width: 100%;
+										}
+					.locations-intro {
+						text-align: center;
+					}
+						.location-item {
+							width: 40%;
+							display: inline-block;
+							margin: 5px;
+						}
+							.location-item-link {
+								
+							}
+							.location-item-link:hover {
+								/*background: #555;													*/
+							}
+					.updates-intro {
+						
+					} 
+						.updates-intro h1 {
+							
+						}
+							.updates-body {
+								
+							}
+								.latest-event, .latest-post-item {
+										
+								}
+									.latest-post-item-header {
+										
+									}
+									.event-photo img {
+										
+									}
+									.latest-post-content {
+										
+									}
+										.latest-post-title {
+																				
+										}
+										.latest-post-meta {
+											
+										}
+										.latest-post-text {
+											
+										}
+										.latest-post-link-btn {
+											
+										}
+				.people-single-info {
+					
+				}
+					.people-single-info > * {
+						
+					}
+
+					.people-single-meta {
+
+					}	
+					.people-single-bio {
+						
+					}
+					.people-single-social-list {
+						
+					}
+						.people-single-social-header {							
+							
+						}
+						.people-single-social-item {
+							
+						}
+							.people-single-social-item * {
+								
+							}
+			.albums-list {
+				text-align: center;
+			}
+				.album-item {
+					display: inline-block;
+					text-align: center;
+					width: 49%;
+				}
+					.thumbnail-container {
+						width: 230px;
+						height: 230px;
+						display: block;
+						margin: auto;
+					}
+						.thumbnail-title {
+															
+						}
+							.thumbnail-title h3 {
+								
+							}
+						.thumbnail-overlay  {
+						
+						}
+						.thumbnail-image {
+
+						}	
+			.photos-list {
+				
+			}
+				.photo-item {
+					display: inline-block;
+					width: 49%;
+					margin: auto;
+					padding: 20px 0;			
+				}
+			.posts-list {
+				
+			}
+				.post-item {
+					width: 100%;
+				}
+					.post-image {
+						width: 40%;
+						display: block;
+						float: left;
+					}
+						.post-image img {
+
+						}
+					.post-header {
+						width: 58%;
+						float: right;						
+					}
+						.post-title {
+							
+						}
+						.post-meta {
+							
+						}
+					.post-content {
+						width: 58%;
+						float: right;												
+					}
+						.post-content .post-link-btn {
+							float: left;
+							margin-top: 10px;
+						}
+footer {
+	padding: 0;
+}
+	.footer-content {
+		width: 90%;
+	}
+	.footer-quicklinks {
+
+	}
+		.quicklinks-list {
+			text-align: left;
+		}
+			.quicklink-item {
+				width: 30%;
+				display: inline-block;
+				vertical-align: top;
+				margin: 0;
+			}
+				.quicklink-item ul {
+					padding: 10px 0;
+					text-align: left;
+				}
+					.quicklink-item li {					
+						display: block;						
+						float: none;	
+						width: auto;	
+					}
+						.quicklink-item a:link, .quicklink-item a:visited, .quicklink-item a:active {
+							padding: 5px;
+						}
+						.quicklink-item a:hover {
+							
+						}
+	.footer-social {
+		
+	}
+		.footer-social-list {
+			
+		}
+			.footer-social li {
+				
+			}
+	.footer-brand {
+
+	}
+		.footer-brand-link {
+					
+		}
+		.footer-logo-image {
+			
+		}
+	.footer-copyright {
+		
+	}
+		.footer-copyright a {
+			
+		}
+
+
+
+/* LIBRARY OVERRIDES */

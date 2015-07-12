@@ -1,0 +1,296 @@
+/* 
+	THIS CONTAINS THE SITE-WIDE LAYOUT FOR SMALLEST SCREEN SIZE
+ */
+
+header { 	
+	
+}
+header.header-contract
+{
+	
+}
+	header.header-contract .header-content
+	{
+		width: 1024px;
+	}
+		header.header-contract .brand a
+		{
+			
+		}
+
+ 	.header-content {
+ 		
+ 	}
+ 		.brand, .nav-group {
+ 				
+ 		}
+ 		.brand { 			
+ 		}
+ 			.brand a {
+ 			
+ 			}
+ 		.nav-group {
+ 			
+ 		}
+ 			.nav-toggle-open {
+ 				
+ 			}
+ 			.nav-main { 
+ 						
+ 			} 
+ 			.nav-main.nav-show { 
+ 				
+ 			}	
+ 				.nav-toggle-close {
+ 					
+ 				}						
+ 				.nav-main-menu {
+					
+ 				}
+ 					.nav-main-menu li {
+ 						
+ 					}
+ 						.nav-dropdown-toggle {
+ 							display: none;
+ 						}
+ 					.nav-main-menu a {
+ 					
+ 					}
+ 					.nav-main-menu a:hover {
+ 						
+ 					} 						
+	 					.nav-main-menu > li > a {
+							
+		 				}
+		 					.nav-main-menu li:hover ul {
+		 						display: block;
+			 				}			 					
+		 					.nav-main-menu li ul {
+		 						display: none;
+		 						opacity: 1;
+			 				}
+			 				.nav-main-menu li ul:before {
+		 											
+			 				}
+			 					.nav-main-menu li li {
+									
+				 				}	 			
+				 					.nav-main-menu > li li a {
+										
+					 				}	
+				.nav-main-social {
+					
+				}
+				.nav-main-social li {
+					
+				}			
+.main-content {
+	width: 1024px;
+}
+	.banner-wrapper {
+		
+	}
+		.banner {
+		
+		}
+	.section-wrapper {
+		
+	}	
+		.section-body {
+			width: 1024px;
+		}
+			.section-content-header {
+
+			}
+				.section-content-header h1 {
+							
+				}
+				.about-intro h1 {
+					
+				}
+			.section-content {
+
+			}
+				.mission-intro, .branches-intro {
+					
+				}
+					.mission-intro h3, .branches-intro h3 {
+						
+					}
+						.mission-intro-content, .branches-intro-content {
+							
+						}
+							.mission-intro-btn {
+								
+							}
+					.branches-intro {
+
+					}
+						.branches-intro-content {
+							
+						}
+							.branch-item {
+								
+							}
+								h3.branch-title {
+									
+								}									
+								.branch-logo-container {
+
+								}
+									.branch-logo-link {
+									
+									}
+										.branch-logo-link img {
+											
+										}
+					.locations-intro {
+						
+					}
+						.location-list {
+							
+						}
+							.location-item {
+															
+							}
+								.location-item-link {
+									
+								}
+								.location-item-link:hover {
+									
+								}
+					.updates-intro {
+						
+					} 
+						.updates-intro h1 {
+							
+						}
+							.updates-body {
+														
+							}
+								.latest-event, .latest-posts {
+									
+								}								
+									.latest-event .latest-post-content, .latest-event .event-photo {
+									
+									}
+								.latest-posts {									
+										
+								}
+									.latest-post-item {
+																								
+									}
+									.latest-post-item-header {
+										
+									}
+									.event-photo img {
+										
+									}
+									.latest-post-content {
+																	
+									}
+										.latest-post-title {
+																				
+										}
+										.latest-post-meta {
+											
+										}
+										.latest-post-text {
+																		
+										}
+										.latest-post-link-btn {
+											
+										}
+				.albums-list {	
+
+				}
+					.album-item {					
+						width: 24%;
+					}
+						.thumbnail-container {
+							width: 200px;
+							height: 200px;
+						}
+							.thumbnail-container:hover .thumbnail-title {
+								bottom: 0;
+							}
+							.thumbnail-title {
+								bottom: -25%;
+							}								
+								.thumbnail-title h4 {
+									
+								}
+							.thumbnail-overlay  {
+								
+							}
+							.thumbnail-container:hover .thumbnail-overlay {
+							
+							}
+							.thumbnail-image {
+
+							}
+							.thumbnail-container:hover .thumbnail-image {
+								
+							}
+			.photos-list {
+				
+			}
+				.photo-item {
+					width: 24%;				
+				}
+footer {
+	
+}
+	.footer-content {		
+		width: 1024px;
+	}
+		.footer-quicklinks {
+			width: 60%;
+		}
+			.quicklinks-list {
+				
+			}
+				.quicklink-item {
+					
+				}
+					.quicklink-item ul {
+						
+					}
+						.quicklink-item li {					
+										
+						}
+							.quicklink-item a:link, .quicklink-item a:visited, .quicklink-item a:active {
+								
+							}
+							.quicklink-item a:hover {
+								
+							}
+		.footer-social {
+			
+		}
+			.footer-social-list {
+				
+			}
+				.footer-social li {
+					
+				}
+		.footer-brand {
+			
+		}
+			.footer-brand-link {
+						
+			}
+			.footer-logo-image {
+				
+			}
+		.footer-copyright {
+			
+		}
+			.footer-copyright a {
+				
+			}
+
+
+
+/* LIBRARY OVERRIDES */
+;

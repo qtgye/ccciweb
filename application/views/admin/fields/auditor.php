@@ -1,0 +1,1 @@
+<input type="text" name="<?php echo $field_name ?>" id="<?php echo $field_name ?>" class="<?php echo in_array($field_name, $data->error->fields)?'error':'' ?>" value="<?php echo isset($data->values->$field_name)?$data->values->$field_name:'' ?>">

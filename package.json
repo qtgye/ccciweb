@@ -1,0 +1,21 @@
+{
+  "name": "christianchallengechurch.org",
+  "version": "1.0.0",
+  "description": "Official website of the Christian Challenge Church Inc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qtgye@jaysonbuquia.com:~/websites/christianchallengechurch.org/.git"
+  },
+  "author": "Jayson Buquia",
+  "license": "ISC",
+  "dependencies" : {
+  	"gulp" : "*",
+  	"gulp-sass" : "*",
+  	"gulp-rename" : "*",
+  	"gulp-concat" : "*"
+  }
+}

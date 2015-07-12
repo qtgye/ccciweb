@@ -1,0 +1,1 @@
+<input type="text" name="tags" id="tags" class="input-long <?php echo in_array('tags', $data->error->fields)?'error':'' ?>" value="<?php echo isset($data->values->tags)?$data->values->tags:'' ?>" placeholder="example: church, national, healing, etc...">

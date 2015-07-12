@@ -1,0 +1,1 @@
+<input type="text" name="event_date" id="event_date" data-year="<?php echo ((integer)date('Y',time())+1) ?>" class="date-picker <?php echo in_array('event_date', $data->error->fields)?'error':'' ?>" value="<?php echo isset($data->values->event_date)?$data->values->event_date:'' ?>">

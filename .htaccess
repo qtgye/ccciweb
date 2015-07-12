@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^(.*) public/$1 [L]
+
+# php_value upload_max_filesize 5M
+# php_value post_max_size 100M
+# php_value max_file_uploads 100

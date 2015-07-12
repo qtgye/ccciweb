@@ -1,0 +1,1 @@
+<a href="<?php echo URL.'admin/profile/change_password' ?>" class="btn btn-default btn-small">Change Password</a>

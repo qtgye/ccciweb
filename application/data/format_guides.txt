@@ -1,0 +1,41 @@
+This is a guide for the formats to be used for datas.
+e.g., What json formats should be used for what, or is one data should be an array or object, etc.
+
+CONTACT = array
+[
+	09217650211,
+	1234567,
+	2824578
+]
+
+
+SOCIAL = json
+{
+	[
+		{
+			'name'=> *facebook,twitter,etc.,
+			'url' => *link to the profile page
+		},
+		{
+			'name'=> *facebook,twitter,etc.,
+			'url' => *link to the profile page
+		},
+	]
+}
+
+
+SERVICES = json
+{
+	[
+		{
+			'title' => *sunday service, prayer meeting, etc.,
+			'day' => *everyday, sunday, wednesday, etc.,
+			'time' => *8:30 am, 1:00 pm, etc.,
+		},
+		{
+			'title' => *sunday service, prayer meeting, etc.,
+			'day' => *everyday, sunday, wednesday, etc.,
+			'time' => *8:30 am, 1:00 pm, etc.,
+		}
+	]
+}
